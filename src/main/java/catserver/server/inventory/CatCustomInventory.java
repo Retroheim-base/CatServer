@@ -22,7 +22,7 @@ import net.minecraftforge.items.wrapper.PlayerInvWrapper;
 import net.minecraftforge.items.wrapper.PlayerMainInvWrapper;
 import net.minecraftforge.items.wrapper.SidedInvWrapper;
 
-public class CatCustomInventory implements InventoryHolder{
+public class CatCustomInventory implements InventoryHolder {
     private final IInventory inventory;
     private final CraftInventory container;
 
